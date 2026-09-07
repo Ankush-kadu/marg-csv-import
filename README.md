@@ -38,7 +38,7 @@ import.
 Stdlib only — no dependencies.
 
 ```bash
-pip install git+https://github.com/nesayo/marg-csv-import.git
+pip install git+https://github.com/Ankush-kadu/marg-csv-import.git
 ```
 
 ## Usage
